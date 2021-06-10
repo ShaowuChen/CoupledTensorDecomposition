@@ -1,0 +1,7 @@
+ckpt 小learningrate；收敛的W ave；
+ckpt_with_freeze_ave 大learningrate；收敛的W ave， 不训练
+ckpt_with_low_ave_acc_ckpt1 大learing rate； 不收敛的W ave；
+
+
+2020/6/22
+将 W_diff= W原 - W_ave 改为 W_diff = W原 - reverse(G_ave1,G_ave2,G_ave3), ckpt为ckpt_finetuned_ave_20200622_lr0.001

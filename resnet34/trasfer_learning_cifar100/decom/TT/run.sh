@@ -1,0 +1,3 @@
+python single_tt_decom_net2.py --gpu=0 --rank_rate=3/8  --num_lr=1e-1 --epoch=800 --checkpoint_path=/home/test01/csw/resnet34/resnet34_decom/single_decom/20200624_small_lr/rank_rate3_8/3_8_acc0.6604582796391752-3
+python single_tt_decom_net2.py --gpu=1 --rank_rate=1/2  --num_lr=1e-1 --epoch=800 --checkpoint_path=/home/test01/csw/resnet34/resnet34_decom/single_decom/20200624_small_lr/rank_rate1_2/1_2_acc0.6833319909793815-3
+python single_tt_decom_net2.py --gpu=2 --rank_rate=3/4  --num_lr=1e-1 --epoch=800 --checkpoint_path=/home/test01/csw/resnet34/resnet34_decom/single_decom/20200624_small_lr/rank_rate3_4/3_4_acc0.7010309278350515-3
