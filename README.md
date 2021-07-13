@@ -1,3 +1,22 @@
+Code for [**Deep Convolutional Neural Network Compression via Coupled Tensor Decomposition**](https://ieeexplore.ieee.org/document/9261106)
+
+
+Feel free to ask me questions, and please cite our work if it help:
+```
+@ARTICLE{9261106,
+  author={Sun, Weize and Chen, Shaowu and Huang, Lei and So, Hing Cheung and Xie, Min},
+  journal={IEEE Journal of Selected Topics in Signal Processing}, 
+  title={Deep Convolutional Neural Network Compression via Coupled Tensor Decomposition}, 
+  year={2021},
+  volume={15},
+  number={3},
+  pages={603-616},
+  doi={10.1109/JSTSP.2020.3038227}}
+```
+
+
+
+***
 # ISTA+
 
 ## Baseline model
